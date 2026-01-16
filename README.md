@@ -30,4 +30,4 @@ Envoy, RiskScout, Terra Relocations, Chimi, Crossover, Vault
 
 ---
 
-_Medellín, Colombia | Remote_
+_Medellín, Colombia | Irvine, California | Remote_
