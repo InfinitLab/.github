@@ -25,9 +25,9 @@ Envoy, RiskScout, Terra Relocations, Chimi, Crossover, Vault
 ## Connect
 
 - [infinitlab.co](https://infinitlab.co)
-- [LinkedIn](https://linkedin.com/company/infinitlab)
-- [X/Twitter](https://twitter.com/infinitlab)
+<!-- - [LinkedIn](https://linkedin.com/company/infinitlab)
+- [X/Twitter](https://twitter.com/infinitlab) -->
 
 ---
 
-*Medellín, Colombia | Remote*
+_Medellín, Colombia | Remote_
