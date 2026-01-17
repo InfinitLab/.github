@@ -1,33 +1,48 @@
 # InfinitLab
 
-**Software that solves real problems.**
+**We help growing teams simplify their tech and replace brittle tools with systems they actually own.**
 
-We're a software development, research, and innovation firm combining over a decade of engineering expertise with modern AI tools to build products that work in practice.
+Fractional technical leadership and focused tool migrations that reduce chaos, unlock velocity, and build systems you can depend on.
 
 ## What We Do
 
-- **Product Development** — Full-stack web applications using Ruby on Rails, React, and contemporary frameworks
-- **AI Integration** — Practical applications leveraging Claude and GPT for workflow automation and intelligent features
-- **Research & Exploration** — Prototypes and proofs of concept investigating emerging technologies
-- **Performance & Architecture** — Database optimization, caching, and infrastructure improvements
-- **Technical Consulting** — Code reviews, architecture assessments, and strategic technical guidance
+### Fractional Technical Leadership
+
+Senior technical guidance for teams that need clarity, experience, and direction — without hiring a full-time CTO.
+
+- Reduce decision paralysis and technical debt
+- Shape technical direction with senior judgment
+- Introduce AI where it helps — restraint where it doesn't
+- Mentor teams to move faster with confidence
+
+### Targeted Tool Replacement & Migration
+
+We replace one high-pain internal or external tool with a simple, owned solution — designed to fit your team and workflow.
+
+- Replace fragile tools without disruption
+- Reduce operational risk with clear scope
+- Deliver clean, documented systems your team owns
+- Use AI-assisted development where it adds real value
+
+## Good Fit
+
+This works best for:
+
+- Teams of 10–200 people
+- Bootstrapped or lightly funded companies
+- Ops-heavy teams with internal tools
+- Founders who value ownership and simplicity
 
 ## Notable Work
 
-- Optimized a workplace platform to handle 60% more traffic with 10x faster load times
-- Built an international shipping platform from inception
-- Developed compliance platforms and performance-critical systems
-
-## Clients
-
-Envoy, RiskScout, Terra Relocations, Chimi, Crossover, Vault
+- **Envoy** — Optimized architecture handles 60% more traffic with 10x faster load times
+- **RiskScout** — Stabilized architecture enabling confident scaling and faster feature delivery
+- **Terra Relocations** — Built an owned system with instant pricing — bookings tripled
 
 ## Connect
 
 - [infinitlab.co](https://infinitlab.co)
-<!-- - [LinkedIn](https://linkedin.com/company/infinitlab)
-- [X/Twitter](https://twitter.com/infinitlab) -->
 
 ---
 
-_Medellín, Colombia | Irvine, California | Remote_
+_Irvine, CA | Remote_
